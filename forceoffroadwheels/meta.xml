@@ -1,0 +1,4 @@
+<meta>
+	<info name="Force Offroad Wheels" description="Force set offroad wheels to all cars the player is driving." addon="race" author="MegasXLR" type="script" version="1.2.1"/>
+	<script src="wheels.lua" type="server"/>
+</meta>
